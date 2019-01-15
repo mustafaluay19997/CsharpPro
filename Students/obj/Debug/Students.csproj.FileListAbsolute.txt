@@ -1,0 +1,14 @@
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\bin\Debug\Students.exe
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\bin\Debug\Students.pdb
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.exe
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.pdb
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.PL.MainForm.resources
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.PL.QnatForm.resources
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.PL.DeptForm.resources
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.PL.PrangForm.resources
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\bin\Debug\Students.exe.config
+C:\Users\musta\Desktop\StudentPor\C#\Students\Students\obj\Debug\Students.PL.Resource1.resources
